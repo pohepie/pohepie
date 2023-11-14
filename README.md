@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pohemane
+- 👋 Hi, I’m pohe
 - 👀 I’m interested in SA-MP roleplay server development
 - 🌱 I’m currently learning PAWN
 - 💞️ I’m looking to collaborate on any of my projects
