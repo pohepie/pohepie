@@ -14,6 +14,6 @@
   - Mouse pad: Xtrfy GP2 XXL
   - Camera: (will be used after 100 followers)
   - Microphone: Audio-Technica AT2020USB+ (soon)
-  - Headphones: Apple EarPods
+  - Headphones: Apple EarPods (soon)
   - Controller: Xbox 360 and PS5
   - Desk: Ikea Utespelare
