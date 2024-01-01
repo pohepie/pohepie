@@ -24,6 +24,4 @@
   - Where are you from? Bulgaria.
   - When did you start speedrunning/streaming? End of 2023.
   - When are you streaming [instert game]? I have a ``!plan`` on what games I will stream.
-  - What games have you streamed so far?
-    - Harry Potter Series: HP1PC, HP2PC, HP3PC, HP4PC, HP1PS1
-    - Grand Theft Auto Series: GTA:SA, SA:MP
+  - What games do you stream? I mostly stream games from the Harry Potter and Grand Theft Auto series. This includes mods, speedruns, casual playhroughs and roleplay.
