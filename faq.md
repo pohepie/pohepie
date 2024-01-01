@@ -12,7 +12,7 @@
   - Mouse: Logitech G102 Lightsync
   - Cooling pad: Genesis Oxid 550
   - Mouse pad: Xtrfy GP2 XXL
-  - Camera: (will be used after 100 followers)
+  - Camera: Logitech C270 HD
   - Microphone: Audio-Technica AT2020USB+ (soon)
   - Headphones: Apple EarPods (soon)
   - Controller: Xbox 360 and PS5
