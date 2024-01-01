@@ -13,7 +13,8 @@
   - Cooling pad: Genesis Oxid 550
   - Mouse pad: Xtrfy GP2 XXL
   - Camera: Logitech C270 HD
-  - Microphone: Audio-Technica AT2020USB+ (soon)
-  - Headphones: Apple EarPods (soon)
-  - Controller: Xbox 360 and PS5
+  - Microphone: Audio-Technica AT2020USB+ 
+  - Headphones: Apple EarPods 2017
+  - Controller: Xbox 2020 and DualSense
+  - USB Hub: Trust Halyx
   - Desk: Ikea Utespelare
