@@ -24,7 +24,7 @@
   - **Where are you from?** *Bulgaria.*
   - **When did you start speedrunning/streaming?** *End of 2023.*
   - **When are you streaming** [instert game / category]? *I have a* ``!plan`` *on what games I will stream.*
-  - **What games do you stream?** *I stream speedruns, casual playhroughs, roleplay and mods of the Harry Potter and Grand Theft Auto series.*
+  - **What games do you stream?** *I stream speedruns, casual playthroughs, roleplay and mods of the Harry Potter and Grand Theft Auto series.*
 ## Twitch Chat Rules
 #### **Rule 1: Maintain Chat Quality**
     Keep the chat environment friendly and engaging, akin to a small group of friends.
