@@ -3,7 +3,7 @@
 
 ## Table of Contents
 ##  [PC Specs](#pc-specs)
-#### [**Laptop:**](#laptop)
+#### [**Laptop:**]
 
 #### [**Peripherals:**](#peripherals)
   - **Monitor:** LG - 32GN650-B
