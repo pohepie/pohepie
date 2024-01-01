@@ -1,26 +1,18 @@
 # FAQ
+***
 ## Table of Contents
 - [PC Specs](#pc-specs)
 - [Streamer FAQ](#streamer-faq)
-  - [**How old are you?**](#how-old-are-you)
-  - [**Where are you from?**](#where-are-you-from)
-  - [**When did you start speedrunning/streaming?**](#when-start) 
-  - [**When are you streaming** (instert game / category)?](#when-game)
-  - [**What games do you stream?**](#what-games)
-- [Twitch Chat Commands](#twitch-cmds)
-- [Twitch Chat Rules Explaine](#twitch-rules)
-  - [**Rule 1: Maintain Chat Quality**](#rule-1)
-  - [**Rule 2: English-Only Communication**](#rule-2)
-  - [**Rule 3: No Tech Support/Backseat Gaming**](#rule-3)
+- [Twitch Chat Commands](#twitch-chat-commands)
+- [Twitch Chat Rules Explaine](#twitch-chat-rules-explained)
+  - [**Rule 1: Maintain Chat Quality**](#rule-1-maintain-chat-quality)
+  - [**Rule 2: English-Only Communication**](#rule-2-english-only-communication)
+  - [**Rule 3: No Tech Support/Backseat Gaming**](#rule-3-no-tech-supportbackseat-gaming)
 - [General Harry Potter FAQ](#hp-faq)
   - [**How did you find out about the series?**](#hp-find)
 - HPatCoS PC FAQ(#hp2pc-faq)
   - [**Why does Harry look like that?**](#chungus)
-
-
 ***
-
-
 ##  PC Specs
 #### **Laptop:**
   - Acer - Nitro 5 AN517-55-79WE
@@ -48,7 +40,7 @@
   - **What games do you stream?** *I stream speedruns, casual playthroughs, roleplay and mods of the Harry Potter and Grand Theft Auto series.*
 ## Twitch Chat Commands
 ``!lurk`` ``!unlurk`` ``!weather`` ``!plan`` ``!grind`` ``!casual`` ``!goal``
-## Twitch Chat Rules Explaine
+## Twitch Chat Rules Explained
 #### **Rule 1: Maintain Chat Quality**
     Keep the chat environment friendly and engaging, akin to a small group of friends.
     Avoid excessive use of caps, copy-pasta, or disruptive behavior.
@@ -63,6 +55,6 @@
     Only trusted individuals in a specific subject may provide advice.
     This rule is not posted on Twitch as currently all my followers are trusted and knowledgeable in the games I play.
 ## General Harry Potter FAQ
-  - **How did you find out about the series?** *I was a huge fan of the series as a kid, recently decided to revisit the classic games.*
-## HPatCoS PC FAQ(#hp2pc-faq)
-  - **Why does Harry look like that?** *Chungus% refers to a speedrun category around the* ``set harry fatness 1000`` *cheat in the game which changes the behavior of Harry so that whenever he jumps he creates an earthquake which casts all spells around him. The idea of the category is to beat the game on Any% without casting any spells with the wand and instead only using the Chungus earthquakes. The category has an amazing history explained here by Portalguy1000:* https://www.youtube.com/watch?v=pB9eXTwvSIM
+#### **How did you find out about the series?** *I was a huge fan of the series as a kid, recently decided to revisit the classic games.*
+## HPatCoS PC FAQ
+#### **Why does Harry look like that?** *Chungus% refers to a speedrun category around the* ``set harry fatness 1000`` *cheat in the game which changes the behavior of Harry so that whenever he jumps he creates an earthquake which casts all spells around him. The idea of the category is to beat the game on Any% without casting any spells with the wand and instead only using the Chungus earthquakes. The category has an amazing history explained here by Portalguy1000:* https://www.youtube.com/watch?v=pB9eXTwvSIM
