@@ -8,7 +8,6 @@
     - 1 TB SSD
 - **Peripherals:**
   - Monitor: LG - 32GN650-B
-    - 31.5", QHD, 165Hz, 1ms, FreeSync
   - Keyboard: Genesis Thor 150 RGB
   - Mouse: Logitech G102 Lightsync
   - Cooling pad: Genesis Oxid 550
