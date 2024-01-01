@@ -1,5 +1,38 @@
 # FAQ
 ## Table of Contents
+
+## Table of Contents
+##  [PC Specs](#pc-specs)
+#### [**Laptop:**](#laptop)
+
+#### [**Peripherals:**](#peripherals)
+  - **Monitor:** LG - 32GN650-B
+  - **Keyboard:** Genesis Thor 150 RGB
+  - **Mouse:** Logitech G102 Lightsync
+  - **Cooling pad:** Genesis Oxid 550
+  - **Mouse pad:** Xtrfy GP2 XXL
+  - **Camera:** Logitech C270 HD
+  - **Microphone:** Audio-Technica AT2020USB+ 
+  - **Headphones:** Apple EarPods 2017
+  - **Controller:** Xbox 2020 and DualSense
+  - **USB Hub:** Trust Halyx
+  - **Desk:** Ikea Utespelare
+## [Streamer FAQ](#streamer-faq)
+  - [**How old are you?**](#how-old-are-you)  *29.*
+  - [**Where are you from?**](#where-are-you-from) *Bulgaria.*
+  - [**When did you start speedrunning/streaming?**](#when-start) *End of 2023.*
+  - [**When are you streaming** [instert game / category]?](#when-game) *I have a* ``!plan`` *on what games I will stream.*
+  - [**What games do you stream?**](#what-games) *I stream speedruns, casual playthroughs, roleplay and mods of the Harry Potter and Grand Theft Auto series.*
+## [Twitch Chat Commands](#twitch-cmds)
+## [Twitch Chat Rules Explaine](#twitch-rules)
+#### [**Rule 1: Maintain Chat Quality**](#rule-1)
+#### [**Rule 2: English-Only Communication**](#rule-2)
+#### [**Rule 3: No Tech Support/Backseat Gaming**](#rule-3)
+## [General Harry Potter FAQ](#hp-faq)
+  - [**How did you find out about the series?**](#hp-find)
+## HPatCoS PC FAQ(#hp2pc-faq)
+  - [**Why does Harry look like that?**](#chungus)
+    
 ##  [PC Specs](#pc-specs)
 #### [**Laptop:**](#laptop)
   - Acer - Nitro 5 AN517-55-79WE
