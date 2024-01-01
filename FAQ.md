@@ -32,7 +32,11 @@
   - [**How did you find out about the series?**](#hp-find)
 ## HPatCoS PC FAQ(#hp2pc-faq)
   - [**Why does Harry look like that?**](#chungus)
-    
+
+
+***
+
+
 ##  [PC Specs](#pc-specs)
 #### [**Laptop:**](#laptop)
   - Acer - Nitro 5 AN517-55-79WE
