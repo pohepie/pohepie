@@ -1,7 +1,7 @@
 - 👋 Hi, I’m pohe
-- 👀 I’m interested in SA-MP roleplay server development
+- 👀 I’m interested in HP1, HP2, GTA:VC and GTA:SA speedruns and mods, SA-MP roleplay server development
 - 🌱 I’m currently learning PAWN
-- 💞️ I’m looking to collaborate on any of my projects
+- 💞️ I’m looking forward to collaborate on any cool projects
 - 📫 My Discord is pohe
 
 <!---
