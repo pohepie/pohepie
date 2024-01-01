@@ -38,7 +38,7 @@
 
 
 ##  [PC Specs](#pc-specs)
-#### [**Laptop:**](#laptop)
+#### [**Laptop:**]
   - Acer - Nitro 5 AN517-55-79WE
     - Processor	12th Gen Intel(R) Core(TM) i7-12700H
     - Nvidia GeForce RTX 3060
