@@ -17,7 +17,7 @@
   - Acer - Nitro 5 AN517-55-79WE
     - Processor	12th Gen Intel(R) Core(TM) i7-12700H
     - Nvidia GeForce RTX 3060
-    - Installed RAM	16.0 GB, DDR4
+    - 16.0 GB RAM DDR4
     - 1 TB SSD
 #### **Peripherals:**
   - **Monitor:** LG - 32GN650-B
