@@ -8,10 +8,10 @@
   - [**Rule 1: Maintain Chat Quality**](#rule-1-maintain-chat-quality)
   - [**Rule 2: English-Only Communication**](#rule-2-english-only-communication)
   - [**Rule 3: No Tech Support/Backseat Gaming**](#rule-3-no-tech-supportbackseat-gaming)
-- [General Harry Potter FAQ](#hp-faq)
-  - [**How did you find out about the series?**](#hp-find)
-- HPatCoS PC FAQ(#hp2pc-faq)
-  - [**Why does Harry look like that?**](#chungus)
+- [General Harry Potter FAQ](#harry-potter-general-faq)
+  - [**How did you find out about the series?**](#how-did-you-find-out-about-the-series)
+- [HPatCoS PC FAQ](#hpatcos-pc-faq)
+  - [**Why does Harry look like that?**](#why-does-harry-look-like-that)
 ***
 ##  PC Specs
 #### **Laptop:**
@@ -55,7 +55,8 @@
     Only trusted individuals in a specific subject may provide advice.
     This rule is not posted on Twitch as currently all my followers are trusted and knowledgeable in the games I play.
 ## General Harry Potter FAQ
-#### **How did you find out about the series?** *I was a huge fan of the series as a kid, recently decided to revisit the classic games.*
+#### **How did you find out about the series?** 
+*I was a huge fan of the series as a kid, recently decided to revisit the classic games.*
 ## HPatCoS PC FAQ
 #### **Why does Harry look like that?** 
 *Chungus% refers to a speedrun category around the* ``set harry fatness 1000`` *cheat in the game which changes the behavior of Harry so that whenever he jumps he creates an earthquake which casts all spells around him. The idea of the category is to beat the game on Any% without casting any spells with the wand and instead only using the Chungus earthquakes. The category has an amazing history explained here by Portalguy1000:* https://www.youtube.com/watch?v=pB9eXTwvSIM
