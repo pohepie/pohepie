@@ -35,7 +35,7 @@
   - **How old are you?** *29.*
   - **Where are you from?**](#bg) *Bulgaria.*
   - **When did you start speedrunning/streaming?** *End of 2023.*
-  - **When are you streaming** [instert game / category]?] *I have a* ``!plan`` *on what games I will stream.*
+  - **When are you streaming** [instert game / category]**?** *I have a* ``!plan`` *on what games I will stream.*
   - **What games do you stream?** *I stream speedruns, casual playthroughs, roleplay and mods of the Harry Potter and Grand Theft Auto series.*
 ## Twitch Chat Commands
 ``!lurk`` ``!unlurk`` ``!weather`` ``!plan`` ``!grind`` ``!casual`` ``!goal``
