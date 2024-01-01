@@ -1,12 +1,13 @@
 # FAQ
-
-- **Laptop:**
+## Table of Contents
+##  PC Specs
+- #### **Laptop:**
   - Acer - Nitro 5 AN517-55-79WE
     - Processor	12th Gen Intel(R) Core(TM) i7-12700H
     - Nvidia GeForce RTX 3060
     - Installed RAM	16.0 GB, DDR4
     - 1 TB SSD
-- **Peripherals:**
+- #### **Peripherals:**
   - Monitor: LG - 32GN650-B
   - Keyboard: Genesis Thor 150 RGB
   - Mouse: Logitech G102 Lightsync
@@ -18,3 +19,11 @@
   - Controller: Xbox 2020 and DualSense
   - USB Hub: Trust Halyx
   - Desk: Ikea Utespelare
+## Streamer FAQ
+  - How old are you? 29.
+  - Where are you from? Bulgaria.
+  - When did you start speedrunning/streaming? End of 2023.
+  - When are you streaming [instert game]? I have a ``!plan`` on what games I will stream.
+  - What games have you streamed so far?
+    - Harry Potter Series: HP1PC, HP2PC, HP3PC, HP4PC, HP1PS1
+    - Grand Theft Auto Series: GTA:SA, SA:MP
