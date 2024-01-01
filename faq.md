@@ -24,4 +24,4 @@
   - Where are you from? Bulgaria.
   - When did you start speedrunning/streaming? End of 2023.
   - When are you streaming [instert game]? I have a ``!plan`` on what games I will stream.
-  - What games do you stream? I mostly stream games from the Harry Potter and Grand Theft Auto series. This includes mods, speedruns, casual playhroughs and roleplay.
+  - What games do you stream? I  stream mods, speedruns, casual playhroughs and roleplay of the Harry Potter and Grand Theft Auto series.
