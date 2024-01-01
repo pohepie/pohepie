@@ -18,11 +18,11 @@
   - **USB Hub:** Trust Halyx
   - **Desk:** Ikea Utespelare
 ## [Streamer FAQ](#streamer-faq)
-  - [**How old are you?**](#how-old-are-you)  *29.*
-  - [**Where are you from?**](#where-are-you-from) *Bulgaria.*
-  - [**When did you start speedrunning/streaming?**](#when-start) *End of 2023.*
-  - [**When are you streaming** [instert game / category]?](#when-game) *I have a* ``!plan`` *on what games I will stream.*
-  - [**What games do you stream?**](#what-games) *I stream speedruns, casual playthroughs, roleplay and mods of the Harry Potter and Grand Theft Auto series.*
+  - [**How old are you?**](#how-old-are-you)
+  - [**Where are you from?**](#where-are-you-from)
+  - [**When did you start speedrunning/streaming?**](#when-start) 
+  - [**When are you streaming** (instert game / category)?](#when-game)
+  - [**What games do you stream?**](#what-games)
 ## [Twitch Chat Commands](#twitch-cmds)
 ## [Twitch Chat Rules Explaine](#twitch-rules)
 #### [**Rule 1: Maintain Chat Quality**](#rule-1)
@@ -53,11 +53,11 @@
   - **USB Hub:** Trust Halyx
   - **Desk:** Ikea Utespelare
 ## [Streamer FAQ](#streamer-faq)
-  - [**How old are you?**](#old)  *29.*
-  - [**Where are you from?**](#bg) *Bulgaria.*
-  - [**When did you start speedrunning/streaming?**](#when-start) *End of 2023.*
-  - [**When are you streaming** [instert game / category]?](#when-game) *I have a* ``!plan`` *on what games I will stream.*
-  - [**What games do you stream?**](#what-games) *I stream speedruns, casual playthroughs, roleplay and mods of the Harry Potter and Grand Theft Auto series.*
+  - **How old are you?** *29.*
+  - **Where are you from?**](#bg) *Bulgaria.*
+  - **When did you start speedrunning/streaming?** *End of 2023.*
+  - **When are you streaming** [instert game / category]?] *I have a* ``!plan`` *on what games I will stream.*
+  - **What games do you stream?** *I stream speedruns, casual playthroughs, roleplay and mods of the Harry Potter and Grand Theft Auto series.*
 ## [Twitch Chat Commands](#twitch-cmds)
 ``!lurk`` ``!unlurk`` ``!weather`` ``!plan`` ``!grind`` ``!casual`` ``!goal``
 ## [Twitch Chat Rules Explaine](#twitch-rules)
