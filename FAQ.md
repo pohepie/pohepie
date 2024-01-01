@@ -1,17 +1,17 @@
 # FAQ
 ***
 ## Table of Contents
-- [PC Specs](#pc-specs)
-- [Streamer FAQ](#streamer-faq)
-- [Twitch Chat Commands](#twitch-chat-commands)
-- [Twitch Chat Rules Explaine](#twitch-chat-rules-explained)
-  - [**Rule 1: Maintain Chat Quality**](#rule-1-maintain-chat-quality)
-  - [**Rule 2: English-Only Communication**](#rule-2-english-only-communication)
-  - [**Rule 3: No Tech Support/Backseat Gaming**](#rule-3-no-tech-supportbackseat-gaming)
-- [General Harry Potter FAQ](#harry-potter-general-faq)
-  - [**How did you find out about the series?**](#how-did-you-find-out-about-the-series)
-- [HPatCoS PC FAQ](#hpatcos-pc-faq)
-  - [**Why does Harry look like that?**](#why-does-harry-look-like-that)
+- [**PC Specs**](#pc-specs)
+- [**Streamer FAQ**](#streamer-faq)
+- [**Twitch Chat Commands**](#twitch-chat-commands)
+- [**Twitch Chat Rules Explained**](#twitch-chat-rules-explained)
+  - [Rule 1: Maintain Chat Quality**](#rule-1-maintain-chat-quality)
+  - [Rule 2: English-Only Communication**](#rule-2-english-only-communication)
+  - [Rule 3: No Tech Support/Backseat Gaming](#rule-3-no-tech-supportbackseat-gaming)
+- [**General Harry Potter FAQ**](#harry-potter-general-faq)
+  - [How did you find out about the series?](#how-did-you-find-out-about-the-series)
+- [**HPatCoS PC FAQ**](#hpatcos-pc-faq)
+  - [**Why does Harry look like that?](#why-does-harry-look-like-that)
 ***
 ##  PC Specs
 #### **Laptop:**
