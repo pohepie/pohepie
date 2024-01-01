@@ -25,7 +25,7 @@
   - **When did you start speedrunning/streaming?** *End of 2023.*
   - **When are you streaming** [instert game / category]? *I have a* ``!plan`` *on what games I will stream.*
   - **What games do you stream?** *I stream speedruns, casual playthroughs, roleplay and mods of the Harry Potter and Grand Theft Auto series.*
-## Twitch Chat Rules
+## Twitch Chat Rules Explained
 #### **Rule 1: Maintain Chat Quality**
     Keep the chat environment friendly and engaging, akin to a small group of friends.
     Avoid excessive use of caps, copy-pasta, or disruptive behavior.
@@ -38,6 +38,7 @@
     Refrain from providing unsolicited advice or backseat gaming.
     Tech support discussions should be directed privately to prevent chat disruptions.
     Only trusted individuals in a specific subject may provide advice.
+    This rule is not posted on Twitch as currently all my followers are trusted and knowledgeable in the games I play.
 ## General Harry Potter FAQ
   - **How did you find out about the series?** *I was a huge fan of the series as a kid, recently decided to revisit the classic games.*
 ## Harry Potter 2 PC FAQ
