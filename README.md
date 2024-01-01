@@ -1,5 +1,5 @@
 - 👋 Hi, I’m pohe
-- 👀 I’m interested in Harry Potter series and Grand Theft Auto series modifications
+- 👀 I stream speedruns, casual playthroughs, roleplay and mods of the Harry Potter and Grand Theft Auto series.
 - 🌱 I’m currently learning PAWN
 - 💞️ I’m looking forward to collaborate on any cool projects
 - 📫 My Discord is pohe
