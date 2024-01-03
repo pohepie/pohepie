@@ -58,4 +58,4 @@
 *I was a huge fan of the series as a kid, recently decided to revisit the classic games.*
 ## HPatCoS PC FAQ
 #### **Why does Harry look like that?** 
-*Chungus% refers to a speedrun category around the* ``set harry fatness 1000`` *cheat in the game which changes the behavior of Harry so that whenever he jumps he creates an earthquake which casts all spells around him. The idea of the category is to beat the game on Any% without casting any spells with the wand and instead only using the Chungus earthquakes. The category has an amazing history explained here by Portalguy1000:* https://www.youtube.com/watch?v=pB9eXTwvSIM
+*Chungus% refers to a speedrun category around the* ``set harry fatness 255`` *cheat in the game which changes the behavior of Harry so that whenever he jumps he creates an earthquake which casts all spells around him. The idea of the category is to beat the game on Any% without casting any spells with the wand and instead only using the Chungus earthquakes. The category has an amazing history explained here by Portalguy1000:* https://www.youtube.com/watch?v=pB9eXTwvSIM
