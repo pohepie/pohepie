@@ -9,9 +9,9 @@
   - [Rule 3: No Tech Support/Backseat Gaming](#rule-3-no-tech-supportbackseat-gaming)
 - [**General Harry Potter FAQ**](#harry-potter-general-faq)
   - [How did you find out about the series?](#how-did-you-find-out-about-the-series)
+  - [Have you read the books?](#have-you-read-the-books)
 - [**HPatCoS PC FAQ**](#hpatcos-pc-faq)
   - [Why is Harry chunky?](#why-is-harry-chunky)
-  - [Have you read the books?](#have-you-read-the-books)
 ***
 ##  PC Specs
 #### **Laptop:**
