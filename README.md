@@ -11,7 +11,7 @@
   - [How did you find out about the series?](#how-did-you-find-out-about-the-series)
   - [Have you read the books?](#have-you-read-the-books)
 - [**HPatCoS PC FAQ**](#hpatcos-pc-faq)
-  - [Why is Harry chunky?](#why-is-harry-chunky)
+  - [What is Chungus?](#what-is-chungus)
 ***
 ##  PC Specs
 #### **Laptop:**
