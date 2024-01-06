@@ -10,7 +10,7 @@
 - [**General Harry Potter FAQ**](#harry-potter-general-faq)
   - [How did you find out about the series?](#how-did-you-find-out-about-the-series)
 - [**HPatCoS PC FAQ**](#hpatcos-pc-faq)
-  - [Why does Harry look like that?](#why-is-harry-chunky)
+  - [Why is Harry chunky?](#why-is-harry-chunky)
 ***
 ##  PC Specs
 #### **Laptop:**
