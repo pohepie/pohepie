@@ -10,7 +10,7 @@
 - [**General Harry Potter FAQ**](#harry-potter-general-faq)
   - [How did you find out about the series?](#how-did-you-find-out-about-the-series)
 - [**HPatCoS PC FAQ**](#hpatcos-pc-faq)
-  - [Why does Harry look like that?](#why-does-harry-look-like-that)
+  - [Why does Harry look like that?](#why-is-harry-chunky)
 ***
 ##  PC Specs
 #### **Laptop:**
@@ -34,7 +34,7 @@
 ## Streamer FAQ
   - **How old are you?** *29.*
   - **Where are you from?** *Bulgaria.*
-  - **When did you start speedrunning/streaming?** *End of 2023.*
+  - **When did you start speedrunning/streaming?** *End of 2023. *
   - **When are you streaming** [instert game / category]**?** *I have a* ``!plan`` *on what games I will stream.*
   - **What games do you stream?** *I stream speedruns, casual playthroughs, roleplay and mods of the Harry Potter and Grand Theft Auto series.*
 ## Twitch Chat Commands
@@ -56,6 +56,8 @@
 ## General Harry Potter FAQ
 #### **How did you find out about the series?** 
 *I was a huge fan of the series as a kid, recently decided to revisit the classic games.*
+#### **Have you read the Harry Potter books?** 
+*I've read all but the last one. Looking forwards to reading them again.*
 ## HPatCoS PC FAQ
-#### **Why does Harry look like that?** 
-*Chungus% refers to a speedrun category around the* ``set harry fatness 255`` *cheat in the game which changes the behavior of Harry so that whenever he jumps he creates an earthquake which casts all spells around him. The idea of the category is to beat the game on Any% without casting any spells with the wand and instead only using the Chungus earthquakes. The category has an amazing history explained here by Portalguy1000:* https://www.youtube.com/watch?v=pB9eXTwvSIM
+#### **Why is Harry chunky?** 
+*If Harry is chunky then it's a Chungus% run. Chungus% refers to a speedrun category around the* ``set harry fatness 255`` *cheat in the game which changes the behavior of Harry so that whenever he jumps he creates an earthquake which casts all spells around him. The idea of the category is to beat the game on Any% without casting any spells with the wand and instead only using the Chungus earthquakes. The category has an amazing history explained here by Portalguy1000:* https://www.youtube.com/watch?v=pB9eXTwvSIM
