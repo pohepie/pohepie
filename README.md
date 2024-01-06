@@ -11,6 +11,7 @@
   - [How did you find out about the series?](#how-did-you-find-out-about-the-series)
 - [**HPatCoS PC FAQ**](#hpatcos-pc-faq)
   - [Why is Harry chunky?](#why-is-harry-chunky)
+  - [Have you read the books?](#have-you-read-the-books)
 ***
 ##  PC Specs
 #### **Laptop:**
@@ -56,8 +57,8 @@
 ## General Harry Potter FAQ
 #### **How did you find out about the series?** 
 *I was a huge fan of the series as a kid, recently decided to revisit the classic games.*
-#### **Have you read the Harry Potter books?** 
+#### **Have you read the books?** 
 *I've read all but the last one. Looking forwards to reading them again.*
 ## HPatCoS PC FAQ
-#### **Why is Harry chunky?** 
-*If Harry is chunky then it's a Chungus% run. Chungus% refers to a speedrun category around the* ``set harry fatness 255`` *cheat in the game which changes the behavior of Harry so that whenever he jumps he creates an earthquake which casts all spells around him. The idea of the category is to beat the game on Any% without casting any spells with the wand and instead only using the Chungus earthquakes. The category has an amazing history explained here by Portalguy1000:* https://www.youtube.com/watch?v=pB9eXTwvSIM
+#### **What is Chungus?** 
+*It's a speedrun category for the* ``set harry fatness 255`` *cheat in the game which changes the behavior of Harry so that whenever he jumps he creates an earthquake which casts all spells around him. The idea of the category is to beat the game on Any% without casting any spells with the wand and instead only using the Chungus earthquakes. The category has an amazing history explained here by Portalguy1000:* https://www.youtube.com/watch?v=pB9eXTwvSIM
