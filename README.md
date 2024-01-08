@@ -7,11 +7,12 @@
   - [Rule 1: Maintain Chat Quality](#rule-1-maintain-chat-quality)
   - [Rule 2: English-Only Communication](#rule-2-english-only-communication)
   - [Rule 3: No Tech Support/Backseat Gaming](#rule-3-no-tech-supportbackseat-gaming)
-- [**General Harry Potter FAQ**](#harry-potter-general-faq)
+- [**General Harry Potter FAQ**](#general-harry-potter-faq)
   - [How did you find out about the series?](#how-did-you-find-out-about-the-series)
   - [Have you read the books?](#have-you-read-the-books)
 - [**HPatCoS PC FAQ**](#hpatcos-pc-faq)
   - [What is Chungus?](#what-is-chungus)
+- [**General OSRS FAQ**](#general-osrs-faq)
 ***
 ##  PC Specs
 #### **Laptop:**
@@ -62,3 +63,6 @@
 ## HPatCoS PC FAQ
 #### **What is Chungus?** 
 *It's a speedrun category for the* ``set harry fatness 255`` *cheat in the game which changes the behavior of Harry so that whenever he jumps he creates an earthquake which casts all spells around him. The idea of the category is to beat the game on Any% without casting any spells with the wand and instead only using the Chungus earthquakes. The category has an amazing history explained here by Portalguy1000:* https://www.youtube.com/watch?v=pB9eXTwvSIM
+## General OSRS FAQ
+#### **Is this your first time playing?**
+*Yes, though I had some idea of what the game is like and have played other MMOs in the past.*
