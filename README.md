@@ -14,7 +14,8 @@
   - [**HPatCoS PC FAQ**](#hpatcos-pc-faq)
     - [What is Chungus?](#what-is-chungus)
 - [**General OSRS FAQ**](#general-osrs-faq)
-- [**For Artists**](#for-artists)
+- [**Notes**](#notes)
+  - [**For Artists**](#for-artists)
 ***
 #  PC Specs
 ## **Laptop**
@@ -69,5 +70,6 @@
 # General OSRS FAQ
 ### **Is this your first time playing?**
 *Yes, though I had some idea of what the game is like and have played other MMOs in the past.*
-# For Artists
+# **Notes**
+## For Artists
 Hey creators! Love your passion for art, but please refrain from promoting your work or services in the stream chat or over DMs. My channel is focused on gaming — let's keep the space dedicated to that. Thanks for understanding!
