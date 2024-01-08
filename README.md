@@ -61,7 +61,7 @@
 #### **Have you read the books?** 
 *I've read all but the last one. Looking forwards to reading them again.*
 ### HPatCoS PC FAQ
-#### **What is Chungus?** 
+##### **What is Chungus?** 
 *It's a speedrun category for the* ``set harry fatness 255`` *cheat in the game which changes the behavior of Harry so that whenever he jumps he creates an earthquake which casts all spells around him. The idea of the category is to beat the game on Any% without casting any spells with the wand and instead only using the Chungus earthquakes. The category has an amazing history explained here by Portalguy1000:* https://www.youtube.com/watch?v=pB9eXTwvSIM
 ## 〰️General OSRS FAQ
 #### **Is this your first time playing?**
