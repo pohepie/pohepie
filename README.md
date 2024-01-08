@@ -14,6 +14,7 @@
   - [**HPatCoS PC FAQ**](#hpatcos-pc-faq)
     - [What is Chungus?](#what-is-chungus)
 - [**General OSRS FAQ**](#general-osrs-faq)
+- [**For Artists**](#for-artists)
 ***
 #  PC Specs
 ## **Laptop**
@@ -43,16 +44,16 @@
 ## **Best Times**
 ## **Twitch Chat Commands**
 ``!lurk`` ``!unlurk`` ``!weather`` ``!plan`` ``!grind`` ``!casual`` ``!goal``
-# **Twitch Chat Rules Explained**
-## **Rule 1: Maintain Chat Quality**
+## **Twitch Chat Rules Explained**
+### **Rule 1: Maintain Chat Quality**
     Keep the chat environment friendly and engaging, akin to a small group of friends.
     Avoid excessive use of caps, copy-pasta, or disruptive behavior.
     Refrain from questioning message deletions, timeouts, or bans in the public chat to maintain positive vibes.
     Avoid negatively impacting the streamer's mindset during competitive moments; statements like "reset/run's dead" can affect the overall mood in chat.
-## **Rule 2: English-Only Communication**
+### **Rule 2: English-Only Communication**
     Communicate in English to ensure inclusivity and effective moderation.
     Non-English messages may result in spam and hinder our ability to moderate effectively.
-## **Rule 3: No Tech Support/Backseat Gaming**
+### **Rule 3: No Tech Support/Backseat Gaming**
     Refrain from providing unsolicited advice or backseat gaming.
     Tech support discussions should be directed privately to prevent chat disruptions.
     Only trusted individuals in a specific subject may provide advice.
@@ -63,8 +64,10 @@
 ### **Have you read the books?** 
 *I've read all but the last one. Looking forwards to reading them again.*
 ## HPatCoS PC FAQ
-#### **What is Chungus?** 
+#### What is Chungus?
 *It's a speedrun category for the* ``set harry fatness 255`` *cheat in the game which changes the behavior of Harry so that whenever he jumps he creates an earthquake which casts all spells around him. The idea of the category is to beat the game on Any% without casting any spells with the wand and instead only using the Chungus earthquakes. The category has an amazing history explained here by Portalguy1000:* [https://www.youtu.be/watch?v=pB9eXTwvSIM]
 # General OSRS FAQ
 ### **Is this your first time playing?**
 *Yes, though I had some idea of what the game is like and have played other MMOs in the past.*
+# For Artists
+Hey creators! Love your passion for art, but please refrain from promoting your work or services in the stream chat or over DMs. My channel is focused on gaming — let's keep the space dedicated to that. Thanks for understanding!
