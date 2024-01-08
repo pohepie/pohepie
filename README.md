@@ -72,7 +72,7 @@ I stream Old School Runescape, speedruns, casual playthroughs, roleplay and mods
 Hey creators! Love your passion for art, but please refrain from promoting your work or services in the stream chat or over DMs. My channel is focused on gaming — let's keep the space dedicated to that. Thanks for understanding!
 # Harry Potter FAQ
 ### **How did you decide to speedrun this?** 
-*I was a huge fan of the series as a kid, recently decided to revisit the classic games. Speedrunning them just came to mind as I was interested in GTA speedrunning videos.*
+*I was a huge fan of the series as a kid, recently decided to revisit the classic games. Speedrunning them just came to mind as I was interested in speedrunning videos at the time.*
 ### **Have you read the books?** 
 *I've read all but the last one. Looking forwards to reading them again.*
 ## HPatCoS PC FAQ
