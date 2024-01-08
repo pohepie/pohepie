@@ -44,7 +44,7 @@ Bulgaria.
 ### **When did you start speedrunning/streaming?**
 End of 2023.
 ### **When are you streaming** [instert game / category]**?**
-I have a pretty tight schedule on streaming. Only highly requested ideas will be considered.
+I have a pretty tight schedule on streaming. Only highly requested ideas by valuable community members will be considered.
 ### **What games do you stream?**
 I stream Old School Runescape, speedruns, casual playthroughs, roleplay and mods of the Harry Potter and Grand Theft Auto series.
 ## **Best Times**
