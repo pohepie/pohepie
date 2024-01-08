@@ -38,7 +38,7 @@
   - **Desk:** Ikea Utespelare
 # **Streamer FAQ**
 ### **How old are you?**
-29.
+Approaching 30.
 ### **Where are you from?**
 Bulgaria.
 ### **When did you start speedrunning/streaming?**
