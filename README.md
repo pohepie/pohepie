@@ -43,8 +43,8 @@
   - **When are you streaming** [instert game / category]**?** *I have a* ``!plan`` *on what games I will stream.*
   - **What games do you stream?** *I stream speedruns, casual playthroughs, roleplay and mods of the Harry Potter and Grand Theft Auto series.*
 ## **Best Times**
-HP2PC Chungus% - 9:59:020 
-HP2PC NG+ - 9:51:470
+  - **HP2PC Chungus%** - 9:59:020 
+  - **HP2PC NG+** - 9:51:470
 ## **Twitch Chat Commands**
 ``!lurk`` ``!unlurk`` ``!weather`` ``!plan`` ``!grind`` ``!casual`` ``!goal``
 ## **Twitch Chat Rules Explained**
@@ -75,3 +75,4 @@ Hey creators! Love your passion for art, but please refrain from promoting your 
 # Old School Runescape FAQ
 ### **Is this your first time playing?**
 *Yes, though I had some idea of what the game is like and have played other MMOs in the past.*
+***
