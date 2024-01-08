@@ -8,12 +8,12 @@
     - [Rule 1: Maintain Chat Quality](#rule-1-maintain-chat-quality)
     - [Rule 2: English-Only Communication](#rule-2-english-only-communication)
     - [Rule 3: No Tech Support/Backseat Gaming](#rule-3-no-tech-supportbackseat-gaming)
-- [**General Harry Potter FAQ**](#general-harry-potter-faq)
+- [**Harry Potter FAQ**](#harry-potter-faq)
   - [How did you decide to speedrun this?](#how-did-you-find-out-about-the-series)
   - [Have you read the books?](#have-you-read-the-books)
   - [**HPatCoS PC FAQ**](#hpatcos-pc-faq)
     - [What is Chungus?](#what-is-chungus)
-- [**General OSRS FAQ**](#general-osrs-faq)
+- [**Old School Runescape FAQ**](#old-school-runescape-faq)
   
   - [**Miscellaneous Notes**](#notes)
     - [For Artists](#for-artists)
@@ -60,7 +60,7 @@
     Tech support discussions should be directed privately to prevent chat disruptions.
     Only trusted individuals in a specific subject may provide advice.
     This rule is not posted on Twitch as currently all my followers are trusted and knowledgeable in the games I play.
-# General Harry Potter FAQ
+# Harry Potter FAQ
 ### **How did you decide to speedrun this?** 
 *I was a huge fan of the series as a kid, recently decided to revisit the classic games. Speedrunning them just came to mind as I was interested in GTA speedrunning videos.*
 ### **Have you read the books?** 
@@ -68,7 +68,7 @@
 ## HPatCoS PC FAQ
 #### What is Chungus?
 *It's a speedrun category for the* ``set harry fatness 255`` *cheat in the game which changes the behavior of Harry so that whenever he jumps he creates an earthquake which casts all spells around him. The idea of the category is to beat the game on Any% without casting any spells with the wand and instead only using the Chungus earthquakes. The category has an amazing history explained here by Portalguy1000:* [https://www.youtu.be/watch?v=pB9eXTwvSIM]
-# General OSRS FAQ
+# Old School Runescape FAQ
 ### **Is this your first time playing?**
 *Yes, though I had some idea of what the game is like and have played other MMOs in the past.*
 ## **Miscellaneous Notes**
