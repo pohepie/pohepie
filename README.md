@@ -9,7 +9,7 @@
     - [Rule 2: English-Only Communication](#rule-2-english-only-communication)
     - [Rule 3: No Tech Support/Backseat Gaming](#rule-3-no-tech-supportbackseat-gaming)
 - [**General Harry Potter FAQ**](#general-harry-potter-faq)
-  - [How did you find out about the series?](#how-did-you-find-out-about-the-series)
+  - [How did you decide to speedrun this?](#how-did-you-find-out-about-the-series)
   - [Have you read the books?](#have-you-read-the-books)
   - [**HPatCoS PC FAQ**](#hpatcos-pc-faq)
     - [What is Chungus?](#what-is-chungus)
@@ -58,7 +58,7 @@
     Only trusted individuals in a specific subject may provide advice.
     This rule is not posted on Twitch as currently all my followers are trusted and knowledgeable in the games I play.
 # General Harry Potter FAQ
-### **How did you decide to speedrun HP?** 
+### **How did you decide to speedrun this?** 
 *I was a huge fan of the series as a kid, recently decided to revisit the classic games. Speedrunning them just came to mind as I was interested in GTA speedrunning videos.*
 ### **Have you read the books?** 
 *I've read all but the last one. Looking forwards to reading them again.*
