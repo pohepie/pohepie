@@ -56,8 +56,8 @@
     Only trusted individuals in a specific subject may provide advice.
     This rule is not posted on Twitch as currently all my followers are trusted and knowledgeable in the games I play.
 ## General Harry Potter FAQ
-#### **How did you find out about the series?** 
-*I was a huge fan of the series as a kid, recently decided to revisit the classic games.*
+#### **How did you decide to speedrun HP?** 
+*I was a huge fan of the series as a kid, recently decided to revisit the classic games. Speedrunning them just came to mind as I was interested in GTA speedrunning videos.*
 #### **Have you read the books?** 
 *I've read all but the last one. Looking forwards to reading them again.*
 ## HPatCoS PC FAQ
