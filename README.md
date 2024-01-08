@@ -55,7 +55,7 @@
     Tech support discussions should be directed privately to prevent chat disruptions.
     Only trusted individuals in a specific subject may provide advice.
     This rule is not posted on Twitch as currently all my followers are trusted and knowledgeable in the games I play.
-## General Harry Potter FAQ
+## 〰️General Harry Potter FAQ
 #### **How did you decide to speedrun HP?** 
 *I was a huge fan of the series as a kid, recently decided to revisit the classic games. Speedrunning them just came to mind as I was interested in GTA speedrunning videos.*
 #### **Have you read the books?** 
@@ -63,6 +63,6 @@
 ## HPatCoS PC FAQ
 #### **What is Chungus?** 
 *It's a speedrun category for the* ``set harry fatness 255`` *cheat in the game which changes the behavior of Harry so that whenever he jumps he creates an earthquake which casts all spells around him. The idea of the category is to beat the game on Any% without casting any spells with the wand and instead only using the Chungus earthquakes. The category has an amazing history explained here by Portalguy1000:* https://www.youtube.com/watch?v=pB9eXTwvSIM
-## General OSRS FAQ
+## 〰️General OSRS FAQ
 #### **Is this your first time playing?**
 *Yes, though I had some idea of what the game is like and have played other MMOs in the past.*
