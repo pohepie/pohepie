@@ -1,4 +1,5 @@
 # FAQ
+***
 ## Table of Contents
 - [**PC Specs**](#pc-specs)
 - [**Streamer FAQ**](#streamer-faq)
