@@ -10,8 +10,8 @@
 - [**General Harry Potter FAQ**](#general-harry-potter-faq)
   - [How did you find out about the series?](#how-did-you-find-out-about-the-series)
   - [Have you read the books?](#have-you-read-the-books)
-- [**HPatCoS PC FAQ**](#hpatcos-pc-faq)
-  - [What is Chungus?](#what-is-chungus)
+  - [**HPatCoS PC FAQ**](#hpatcos-pc-faq)
+    - [What is Chungus?](#what-is-chungus)
 - [**General OSRS FAQ**](#general-osrs-faq)
 ***
 ##  PC Specs
