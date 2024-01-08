@@ -48,8 +48,9 @@ I have a pretty tight schedule on streaming. Only highly requested ideas by valu
 ### **What games do you stream?**
 I stream Old School Runescape, speedruns, casual playthroughs, roleplay and mods of the Harry Potter and Grand Theft Auto series.
 ## **Best Times**
-  - **HP2PC Chungus%** - 9:59:020 
-  - **HP2PC NG+** - 9:51:470
+  - **Category Extensions**
+    - **HP2PC Chungus%** - 9:59:020 
+    - **HP2PC NG+** - 9:51:470
 ## **Twitch Chat Commands**
 ``!lurk`` ``!unlurk`` ``!weather`` ``!plan`` ``!grind`` ``!casual`` ``!goal``
 ## **Twitch Chat Rules Explained**
