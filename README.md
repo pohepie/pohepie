@@ -2,8 +2,9 @@
 ## Table of Contents
 - [**PC Specs**](#pc-specs)
 - [**Streamer FAQ**](#streamer-faq)
-- [**Twitch Chat Commands**](#twitch-chat-commands)
-- [**Twitch Chat Rules Explained**](#twitch-chat-rules-explained)
+  - [**Best Times**](#best-times)
+  - [**Twitch Chat Commands**](#twitch-chat-commands)
+  - [**Twitch Chat Rules Explained**](#twitch-chat-rules-explained)
   - [Rule 1: Maintain Chat Quality](#rule-1-maintain-chat-quality)
   - [Rule 2: English-Only Communication](#rule-2-english-only-communication)
   - [Rule 3: No Tech Support/Backseat Gaming](#rule-3-no-tech-supportbackseat-gaming)
