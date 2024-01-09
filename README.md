@@ -10,6 +10,7 @@
     - [Rule 3: No Tech Support/Backseat Gaming](#rule-3-no-tech-supportbackseat-gaming)
   - [**Miscellaneous Notes**](#notes)
     - [For Artists](#for-artists)
+    - [No Hello](#no-hello)
 - [**Harry Potter FAQ**](#harry-potter-faq)
   - [How did you decide to speedrun this?](#how-did-you-find-out-about-the-series)
   - [Have you read the books?](#have-you-read-the-books)
@@ -70,6 +71,8 @@ I stream Old School Runescape, speedruns, casual playthroughs, roleplay and mods
 ## **Miscellaneous Notes**
 ### For Artists
 Hey creators! Love your passion for art, but please refrain from promoting your work or services in the stream chat or over DMs. My channel is focused on gaming — let's keep the space dedicated to that. Thanks for understanding!
+### No Hello
+https://nohello.net
 # Harry Potter FAQ
 ### **How did you decide to speedrun this?** 
 *I was a huge fan of the series as a kid, recently decided to revisit the classic games. Speedrunning them just came to mind as I was interested in speedrunning videos at the time.*
