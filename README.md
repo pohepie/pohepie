@@ -50,7 +50,7 @@ I stream Old School Runescape, speedruns, casual playthroughs, roleplay and mods
     - **HP2PC Chungus%** - 9:59:020 
     - **HP2PC NG+** - 9:51:470
 ## **Twitch Chat Commands**
-``!lurk`` ``!unlurk`` ``!weather`` ``!plan`` ``!grind`` ``!casual`` ``!goal``
+``!lurk`` ``!unlurk`` ``!weather`` ``!plan`` ``!grind`` ``!casual`` ``!goal - currently disabled`` ``!why`` ``!guide``
 ## **Twitch Chat Rules Explained**
 ### **Rule 1: Maintain Chat Quality**
     Keep the chat environment friendly and engaging, akin to a small group of friends.
