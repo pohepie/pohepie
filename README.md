@@ -42,13 +42,15 @@ Bulgaria.
 ### **When did you start speedrunning/streaming?**
 End of 2023.
 ### **When are you streaming** [instert game / category]**?**
-I have a pretty tight schedule on streaming. Only highly requested ideas by valuable community members will be considered.
+I have a pretty tight schedule on streaming. Only highly requested ideas by valued community members will be considered.
 ### **What games do you stream?**
 I stream Old School Runescape, speedruns, casual playthroughs, roleplay and mods of the Harry Potter and Grand Theft Auto series.
 ## **Best Times**
-  - **Category Extensions**
-    - **HP2PC Chungus%** - 9:59:020 
-    - **HP2PC NG+** - 9:51:470
+  - **Harry Potter and the Chamber of Secrets (PC)**
+    - **Any%** - 45:39
+  - **Harry Potter Category Extensions**
+    - **2PC Chungus%** - 9:59:020 
+    - **2PC NG+** - 9:51:470
 ## **Twitch Chat Commands**
 ``!lurk`` ``!unlurk`` ``!weather`` ``!plan`` ``!grind`` ``!casual`` ``!goal - currently disabled`` ``!why`` ``!guide``
 ## **Twitch Chat Rules Explained**
