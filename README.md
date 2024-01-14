@@ -61,7 +61,7 @@ I stream Old School Runescape, speedruns, casual playthroughs, roleplay and mods
     Avoid negatively impacting the streamer's mindset during competitive moments; statements like "reset/run's dead" can affect the overall mood in chat.
 ### **Rule 2: English-Only Communication**
     Communicate in English to ensure inclusivity and effective moderation.
-    Non-English messages may result in spam and hinder our ability to moderate effectively.
+    Non-English messages may result in spam and hinder the ability to moderate effectively.
 ## **Miscellaneous Notes**
 ### For Artists
 Hey creators! Love your passion for art, but please refrain from promoting your work or services in the stream chat or over DMs. My channel is focused on gaming — let's keep the space dedicated to that. Thanks for understanding!
